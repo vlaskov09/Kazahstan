@@ -11,7 +11,7 @@
     font-size: 40px;
     text-align: center;
     font-family: sans-serif;
-    background-image: url(images/regfon.png);
+    background-image: url(../images/regfon.png);
     background-size: 100% auto;
     border-radius: 20px;
     width: 400px;
@@ -65,7 +65,7 @@
   .bod1 {
     
     margin: 0;
-    background-image: url(images/fon.png);
+    background-image: url(../images/fon.png);
     background-size: 100% auto;
     background-position: center top;
     background-repeat: no-repeat;
@@ -383,7 +383,7 @@ div #naz {
     
     
     margin: 0;
-    background-image: url(images/fonist.jpg);
+    background-image: url(../images/fonist.jpg);
     background-size: 100% auto;
     background-position: center top;
     background-repeat: no-repeat;
@@ -612,7 +612,7 @@ div #naz {
 
 
 .dota2 {
-    background-image: url(images/fonsta.jpg);
+    background-image: url(../images/fonsta.jpg);
      background-size: 100% auto;
     background-position: center top;
     background-repeat: no-repeat;
